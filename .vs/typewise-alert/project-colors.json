@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4179ae03-d653-46fa-9da2-3d907cf9c10a": {
+      "ProjectGuid": "4179ae03-d653-46fa-9da2-3d907cf9c10a",
+      "DisplayName": "TypewiseAlert.Test",
+      "ColorIndex": 0
+    },
+    "cd01020a-d225-4cbb-bd8f-f062eb2bf3a8": {
+      "ProjectGuid": "cd01020a-d225-4cbb-bd8f-f062eb2bf3a8",
+      "DisplayName": "TypewiseAlert",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
